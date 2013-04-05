@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>net.milkbowl.vault</groupId>
+  <artifactId>Vault</artifactId>
+  <version>1.2.16-SNAPSHOT</version>
+  <versioning>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.2.16-20120509.150810-184</value>
+        <updated>20120509150845</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>1.2.16-20120509.150810-184</value>
+        <updated>20120509150846</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
