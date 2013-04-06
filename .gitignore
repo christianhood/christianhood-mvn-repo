@@ -1,1 +1,10 @@
 target/
+.cache/
+junit/
+org/apache/
+org/codehaus/
+org/bukkit/
+org/sonatype/
+classworlds/
+commons-cli/
+commons-lang/
